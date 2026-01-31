@@ -1,4 +1,4 @@
-# TCS_Apple_Assesment_1
+# ChatDoc
 
 ## ✅ Task 1: General Knowledge Q&A using FastAPI + TinyLLaMA
 1. FastAPI application to query general knowledge questions.
